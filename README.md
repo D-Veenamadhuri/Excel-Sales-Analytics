@@ -10,9 +10,9 @@
 
 - **Purpose of sales analytics:** The primary aim of sales analytics is to enable businesses to actively monitor and assess their sales activities and performance, helps in informed decision-making and strategic planning.
 
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+- **Importance of analyzing sales data:** Analyzing sales data is crucial for recognizing sales trends, identifying key performance indicators (KPIs), and extracting actionable insights that drive enhanced sales strategies and operational efficiency.
 
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+- **Role of reports:** Reports created through sales analytics are crucial for figuring out the best ways to offer discounts to customers, making negotiations with consumers easier, and finding good opportunities to expand the business in promising countries.
 
 
 ## Finance Report :
