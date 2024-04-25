@@ -8,7 +8,7 @@
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/D-Veenamadhuri/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Taget%20Report.pdf)_
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+- **Purpose of sales analytics:** The primary aim of sales analytics is to enable businesses to actively monitor and assess their sales activities and performance, helps in informed decision-making and strategic planning.
 
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
 
