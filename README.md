@@ -8,6 +8,8 @@
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/D-Veenamadhuri/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Taget%20Report.pdf)_
 
+    **3.** Create a report based on the percentage increase in their net sales from 2020 to 2021 for _[top 10 products](https://github.com/D-Veenamadhuri/Excel-Sales-Analytics/blob/main/Top%2010%20Products.pdf)_
+
 - **Purpose of sales analytics:** The primary aim of sales analytics is to enable businesses to actively monitor and assess their sales activities and performance, helps in informed decision-making and strategic planning.
 
 - **Importance of analyzing sales data:** Analyzing sales data is crucial for recognizing sales trends, identifying key performance indicators (KPIs), and extracting actionable insights that drive enhanced sales strategies and operational efficiency.
@@ -23,23 +25,20 @@
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/D-Veenamadhuri/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
 
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+   **3.** Create a report for sub-zone based on _[gross margin% by quarter](https://github.com/D-Veenamadhuri/Excel-Sales-Analytics/blob/main/Sub%20Zone%20.pdf)_
 
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
 
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+- **Purpose of sales analytics:** Sales analytics serves to assess financial performance, aid decision-making, and enhance communication with stakeholders.
 
+- **Importance of analyzing Finance data:** Analyzing finance data is vital for benchmarking against industry peers and past periods, as well as providing a foundation for budgeting and forecasting.
+
+- **Role of reports:** Reports play a critical role in aligning financial planning with strategic goals and instilling confidence in the organization's financial outlook.
 
 ## Technical & Soft Skills:
-- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
-- [x]	Skills to generate a date table using Power Query.
-- [x]	Ability to derive fiscal months and quarters.
-- [x]	Establishing data model relationships with Power Pivot.
-- [x]	Proficiency in incorporating supplementary data into an existing data model.
-- [x]	Utilizing DAX to create calculated columns.
-
+ 
 ## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports
-- [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+1.	Improved understanding of Sales & Finance Reports.
+2.	Creating user-friendly reports with empathy.
+3.	Improved report generation by fine tuning.
+4.	Developing a systematic method for creating reports.
+
